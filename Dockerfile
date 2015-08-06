@@ -1,4 +1,4 @@
-FROM silarsis/base
+FROM ubuntu
 MAINTAINER Kevin Littlejohn <kevin@littlejohn.id.au>
 RUN apt-get -yq update
 
